@@ -1,4 +1,5 @@
 # **Music Store Data Analysis**
+The Music Store Project is a data analysis initiative designed to extract valuable insights from a music store database using PostgreSQL. The project leverages the PgAdmin4 tool to query and analyze data related to employees, customers, invoices, tracks, albums, artists, and genres. The following descriptions outline the objectives and outcomes of the SQL queries developed for this project:
 
 # **Database and Tools**
 (i)Postgre SQL
