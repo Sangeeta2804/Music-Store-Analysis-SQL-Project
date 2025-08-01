@@ -5,6 +5,7 @@
 (ii)PgAdmin4
 
 # **Schema- Music Store Database**
+![Alt text](image_URL)
 
 1. Who is the senior most employee based on job title
 ```sql
