@@ -5,7 +5,7 @@
 (ii)PgAdmin4
 
 # **Schema- Music Store Database**
-![Alt text](image_URL)
+![Alt text](https://github.com/Sangeeta2804/Music-Store-Analysis-SQL-Project/blob/38d8144d08ee2a1384d61d9f6e587233268e99d6/MusicDatabaseSchema.png)
 
 1. Who is the senior most employee based on job title
 ```sql
